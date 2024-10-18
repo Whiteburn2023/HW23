@@ -4,7 +4,6 @@ import java.util.TreeSet;
 public class Main {
     private static TreeSet<String> strings = new TreeSet<>();
     private static String regex = "(7|8)?[0-9]{10}";
-    //"(?:7|8)[0-9]{10}";
 
     public static void main(String[] args) {
 
